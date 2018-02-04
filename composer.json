@@ -1,0 +1,25 @@
+{
+    "name": "simbigo/algorithms",
+    "description": "Algorithms and data structures in PHP",
+    "license": "MIT",
+    "keywords": [
+        "php",
+        "data structure",
+        "algorithm"
+    ],
+    "authors": [
+        {
+            "name": "Andrey Bondarev",
+            "email": "bondarew.andrey@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Simbigo\\PHPImplementation\\Tests\\": "tests",
+            "Simbigo\\PHPImplementation\\": "src"
+        }
+    }
+}
