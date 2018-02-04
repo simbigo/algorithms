@@ -4,7 +4,8 @@ Minimal example implementations of algorithms and data structures in PHP.
 
 ## List of Implementations
 
-### Sorting
+#### Sorting
 - [Bubble_sort](src/Algorithms/Sorting/BubbleSort.php)
 - [Bubble_sort with optimization](src/Algorithms/Sorting/BubbleSortOptimized.php)
 - [Comb sort](src/Algorithms/Sorting/CombSort.php)
+- [Counting sort](src/Algorithms/Sorting/CountingSort.php)
